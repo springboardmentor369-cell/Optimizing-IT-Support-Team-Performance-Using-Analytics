@@ -45,6 +45,6 @@ ITsupport_InfosysSpringboard.pbix
 ---
 
 ## 📌 Internship Experience
-During my Power BI internship, I worked on multiple datasets and projects covering the complete data analysis workflow. I gained hands-on experience in data loading, cleaning, exploratory analysis, visualization, live data integration, JSON handling, API usage, and dashboard storytelling. This internship strengthened my technical foundation and improved my ability to communicate insights effectively through dashboards.
+During my Data Visualisation internship at Infosys Springboard, I have learn data cleaning,EDA,Basic DAX function,Python Basic,GitHub Documentation and also created project covering the complete data analysis workflow. I gained hands-on experience in data loading, cleaning, exploratory analysis, visualization, live data integration, JSON handling, API usage, and dashboard storytelling. This internship help me how real world work and strengthened my technical skill and improved my ability to communicate insights effectively through dashboards.Also it help me what does it take to become the professional Data Analytic
 
 ---
