@@ -2,18 +2,19 @@ ThallapuReddy Gopi Reddy
 
 🎓 Basic Information
 
-College: DVR & DR.HS MIC College of Technology
-Branch:Computer Science Engineering
-Year: 4th
-Batch: 2022-2026
+   College: DVR & DR.HS MIC College of Technology
+   Branch:Computer Science Engineering
+   Year: 4th
+   Batch: 2022-2026
 🔗 GitHub Profile https://github.com/GopiReddy351
 
 # Power BI Project:
   1. Project Name
-   Description: Design an intelligent performance command center for IT support that shifts the team from reactive ticket handling to predictive service optimization. This project transforms raw helpdesk data into actionable insights that reduce resolution time, prevent incidents, and maximize agent productivity.
-   Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
+   Description: Design an intelligent performance command center for IT support that shifts the team from reactive ticket handling to predictive service
+   optimization.This project transforms raw helpdesk data into actionable insights that reduce resolution time, prevent incidents, and maximize agent productivity.
+  Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
    Live Dashboard :
- 2. Project Detailed description:
+  3. Project Detailed description:
      Description:
    1.Business Problem
      IT support teams often struggle with:
@@ -27,15 +28,15 @@ Batch: 2022-2026
     Build a Power BI analytics dashboard that: Tracks operational KPIs in real time Identifies bottlenecks in resolution workflow Predicts SLA risk
     Optimizes workload distribution Detects recurring root causes Recommends improvement opportunities
 
-   3. Data Sources
+   4. Data Sources
      Example datasets: Ticket ID Created Date / Resolved Date Priority Level Category (Network, Software, Hardware, IAM, etc.) Assigned Engineer
      SLA Status Resolution Time Reopened Flag Customer Satisfaction Score Escalation Level Data can be imported from: Kaggle export Excel / CSV files
 
-   4. Key KPIs
+   5. Key KPIs
     Average Resolution Time First Response Time SLA Compliance % Ticket Volume by Category Reopen Rate Escalation Rate Agent Productivity
     Index Customer Satisfaction Score Backlog Trend
 
-   5. Dashboard Pages
+   6. Dashboard Pages
     1️ Executive Overview Total Tickets (Open, Closed, Pending) SLA Compliance Gauge Resolution Time Trend High-Risk Ticket Indicator
 
     2️ Agent Performance Analytics Tickets per Engineer Avg Resolution Time by Agent Escalation Count Workload Distribution Heatmap Performance Ranking
@@ -45,45 +46,45 @@ Batch: 2022-2026
     4️ Predictive & Optimization Insights SLA Breach Risk Prediction Peak Volume Forecast Resource Allocation Suggestions Ticket Aging Analysis
 
    6. Advanced Power BI Features
-     DAX for SLA calculations Dynamic KPI cards Drill-through analysis Decomposition Tree for root cause analysis Forecasting using built-in analytics What-if parameters for staffing simulation
+     DAX for SLA calculations Dynamic KPI cards Drill-through analysis Decomposition Tree for root cause analysis Forecasting using built-in analytics What-if            parameters for staffing simulation
 
    7. Business Impact
      20–35% faster resolution times Reduced SLA violations Balanced workload across agents Improved customer satisfaction Data-driven workforce planning
 
    8. Innovation Angle
-    Reimagine IT support as a data-driven performance engine, not a ticket queue. AI-driven anomaly detection Predictive staffing model Automated weekly performance reports Gamified leaderboard for engineers Early warning SLA alert dashboard
+      Reimagine IT support as a data-driven performance engine, not a ticket queue. AI-driven anomaly detection Predictive staffing model Automated weekly                 performance reports Gamified leaderboard for engineers Early warning SLA alert dashboard
 
-   Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
-   Data Cleaning using python:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data%20Cleaning%20using%20python
-   Data:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data
-   Documentation:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Documentation
-   Power BI:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/PowerBI
-   Screenshots:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Screenshots
-   Readme:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/blob/main/README.md
+  # Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
+      Data Cleaning using python:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data%20Cleaning%20using%20python
+      Data:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data
+      Documentation:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Documentation
+      Power BI:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/PowerBI
+      Screenshots:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Screenshots
+      Readme:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/blob/main/README.md
 # Skills
- Power BI
- Python etc
+   Power BI
+   Python etc
 
 # Internship / Experience :
-  I have learned From this Internsip adout what Kind work can be done by a Data Analytics.
-  How data can be Analized in Different ways.
+   I have learned From this Internsip adout what Kind work can be done by a Data Analytics.
+   How data can be Analized in Different ways.
 
 # Role & Responsibility
-  Collected and cleaned IT ticket data from service platforms
-  Designed a relational data model in Power BI
-  Built advanced DAX measures for SLA tracking and performance metrics
-  Created executive dashboards for real-time monitoring
-  Identified bottlenecks in ticket resolution workflows
-  Delivered data-driven recommendations to improve efficiency
-  You didn’t just build reports — you built operational clarity.
+   Collected and cleaned IT ticket data from service platforms
+   Designed a relational data model in Power BI
+   Built advanced DAX measures for SLA tracking and performance metrics
+   Created executive dashboards for real-time monitoring
+   Identified bottlenecks in ticket resolution workflows
+   Delivered data-driven recommendations to improve efficiency
+   You didn’t just build reports — you built operational clarity.
 
 # What I Delivered
-  End-to-end Power BI performance dashboard
-  SLA Compliance tracking system
-  Agent productivity benchmarking model
-  Ticket aging & backlog monitoring system
-  Root cause analysis using decomposition tree
-  Forecasting model for ticket volume trends
+   End-to-end Power BI performance dashboard
+   SLA Compliance tracking system
+   Agent productivity benchmarking model
+   Ticket aging & backlog monitoring system
+   Root cause analysis using decomposition tree
+   Forecasting model for ticket volume trends
 
 # Key Learnings
    Translating business pain points into analytical KPIs
