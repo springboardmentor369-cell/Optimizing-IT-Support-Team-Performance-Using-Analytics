@@ -86,7 +86,8 @@ ThallapuReddy Gopi Reddy
    Python etc
 
 # Internship / Experience :
-   I have learned From this Internsip adout what Kind work can be done by a Data Analytics.
+   I have learned From this Internsip adout what Kind of work can be done by a Data Analytics.
+   
    How data can be Analized in Different ways.
 
 # Role & Responsibility
