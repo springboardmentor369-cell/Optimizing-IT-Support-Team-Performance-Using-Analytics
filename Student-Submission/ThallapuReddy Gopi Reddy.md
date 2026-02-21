@@ -82,6 +82,7 @@ ThallapuReddy Gopi Reddy
       
 # Skills
    Power BI
+   
    Python etc
 
 # Internship / Experience :
