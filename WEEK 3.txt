@@ -1,0 +1,15 @@
+WEEK 3
+
+* We learnt about the relevance of live data import, ETL and documentation. Setup our GitHub Repo.
+* LIVE DATA IMPORT:
+* relevant and important since the companies/businesses need to analyse the consequences of their         business ideas 
+* use dummy data
+* ETL Pipeline:
+* Pipeline flow of work
+* ETL: Extract, transform and load
+* Import live data through the Web
+* live data importing  and analysing in Power Bi and understanding the data
+* some web data are not importing through web due to the java authentication
+* public url directly import using web
+* -API key endpoint using key to access
+* -ETL pipelines workflow, smooth & consistent, automated

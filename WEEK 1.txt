@@ -1,0 +1,9 @@
+WEEK 1
+
+* We started off discussing about the it support ticketing project in data visualization
+* The process: Collect Data Clean Data Transform (extracting or keeping only the data we require
+* Analysing the tickets with the help of  Python (cleaning and transforming) and Power Bi (calllist.csv)
+* Extraction of data from database 
+* Database: An organised collection of structured data stored for management, retrieval
+* Collect IT Ticketing Data for analysing
+* Most cases a line chart is used to visualise time series data. 

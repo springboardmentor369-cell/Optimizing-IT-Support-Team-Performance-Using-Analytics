@@ -1,0 +1,11 @@
+WEEK 2
+
+* we started with discussing the about the  cleaning using the pandas in Vscode
+* Collect the data (Netflix) from Kaggle and cleaning using the pandas
+* data cleaning using pandas and understanding the codes and commands through the classes
+* data importing then cleaning giving tasks to do and practice 
+* Netflix data with  VS-code we cleaned through the week 
+
+
+
+
