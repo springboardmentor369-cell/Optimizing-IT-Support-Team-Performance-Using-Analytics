@@ -1,0 +1,59 @@
+# week-5
+* What is KPI
+ - KPI stands for key performance indicator and it is a measurable value that tells us
+   how somthing well performed compared to a goal.
+
+
+* What are the different data available in datasets, those are :
+ - Continuous data 
+ - Categorical data
+ - Time Based data
+ - Continuous Data :  
+   Is a numerical data where we can perform mathematical operations like mean ,median and mode etc...
+   and also to Visualize this data we use Cards and Histogram plot , Cards shows numerical value and
+   Histogram wrok on ranges.
+ - Categorical Data :
+   Is a data that divides data into groups like males and females of gender data and also to visualize
+   this data we use Bar plot and Pie chart , Bar plot is used to compare between categories 
+   and Pie chart is used to represent the Categories in percentages.
+   Pie chart proportion = 100 and it doesn't used to exact count. 
+ - Time Based Data : 
+   Time Based data means values varying over time or duration example gold price may decreases or increases completely 
+   varying day by day . And to visualize this data we use line plot because line plot implies a sequence.
+
+
+* Then after we learnt what is primary and foreign keys 
+ - Primary key : 
+   It is a column in table that contains unique values and doesnot contain null and duplicate values.
+ - Foreign key : 
+   It is a column in table that refer to primary key of another table.
+
+
+* What is fact and dimension table : 
+ - fact table : 
+   It contains the main metrics of data.
+ - dimension table :
+   It contains complete details of customers and produts.
+
+
+* Next we establish connnection between tables through primary key and observed relation between table as
+ - 1 to many(*)
+ - many(*) to 1
+
+
+* Next we took Sales Data Example in Power Bi 
+ - We observed how tables are connnected to each other and relation among the tables.
+
+
+* Data Modeling:
+ - How data organised in structured way, stored and relationship between data then
+   making data ready for analysis and reporting  
+ - Star Schema : 
+   it is used to make reports efficient, fast and easy to analyze.
+
+
+Task : find out which is primary and foreign key in fact and dimension table
+   -  A fact table doesnot contain single primary key, instead we use composite primary key , it is combination of
+      both customerid and productid.
+   -  Here customerid and productid  are columns in fact table refering to customerid of dimension table ,productid of
+      dimension table with respectively.
