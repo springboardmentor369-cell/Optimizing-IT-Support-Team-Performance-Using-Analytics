@@ -1,0 +1,10 @@
+WEEK 4
+ 
+topics
+* numerical - numerical data that use like add,
+* categorical -labels or groups 
+* date and time -like date and time shows created date and resolved time 
+* fact tables- the fact tables consists of the tables data like measurable and numeric data 
+* dimension tables - give the contents of the facts (stores labels and details )
+* Primary key and the foreign keys difference between the fact table and they are connected to each
+* One to many and many to one ,these all are discussing throughout thee classes

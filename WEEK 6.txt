@@ -1,0 +1,10 @@
+WEEK 6
+Dax Functions
+* Calculations and the measures are done through using the DAX functions
+* Calculating the profits and sum through the data set in the PowerBi through DAX commands 
+* The base functions that are single functions  and the composite functions that are combinations     of the functions
+* Slicer – to filter and to see the specific data of tables
+* Table profits with the dummy data and task given
+
+
+

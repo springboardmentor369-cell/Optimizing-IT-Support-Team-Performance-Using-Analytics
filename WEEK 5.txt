@@ -1,0 +1,13 @@
+WEEK 5
+Data Modelling 
+* understanding data modelling, relationships between tables, and foundational data concepts used in analytics and Power BI.
+* Understanding relationships for dashboards and like
+ - Many-to-Many 
+-  One-to-Many
+- One-to-One
+* Understanding Types Of Data Like 
+1. Numerical data 
+2. Categorical Data 
+3. Time Series Data
+* Primary Key and Foreign Key that are Essential for relational database design and Power BI modelling.
+* Facts and Dimensions tables like Fact Table ,Dimension Table , Star schema 
