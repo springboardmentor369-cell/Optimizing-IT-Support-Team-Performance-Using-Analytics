@@ -1,0 +1,101 @@
+﻿Ticket ID,Agent Name,Topic,Priority,Country,Product group,Agent Group,Created time,Resolution time,Agent interactions,Support Level,Status
+1,Kristos Westoll,Feature request,Low,Republic of Ireland,Custom software development,1st line support,02-01-2023 00:58,04-01-2023 00:31,1,Tier 1,Closed
+2,Adolpho Messingham,Product setup,High,Italy,Other,2nd line support,02-01-2023 07:27,30-01-2023 12:24,3,Tier 2,In progress
+3,Bernard Beckley,Purchasing and invoicing,Low,Austria,Custom software development,1st line support,02-01-2023 06:59,02-01-2023 22:45,2,Tier 1,Resolved
+4,Connor Danielovitch,Pricing and licensing,Medium,Spain,Ready to use Software,1st line support,03-01-2023 03:09,04-01-2023 14:32,10,Tier 1,Closed
+5,Kristos Westoll,Product setup,Low,Austria,Other,1st line support,03-01-2023 00:03,04-01-2023 12:03,1,Tier 1,Closed
+6,Sheela Cutten,Purchasing and invoicing,Low,Greece,Ready to use Software,1st line support,03-01-2023 14:25,04-01-2023 01:55,2,Tier 1,Closed
+7,Kristos Westoll,Product setup,Low,Republic of Ireland,Ready to use Software,1st line support,03-01-2023 15:32,05-01-2023 03:51,2,Tier 1,Closed
+8,Michele Whyatt,Pricing and licensing,Medium,Poland,Training and Consulting Services,2nd line support,03-01-2023 00:38,05-01-2023 12:47,2,Tier 2,Resolved
+9,Kristos Westoll,Product setup,Medium,Germany,Other,1st line support,03-01-2023 09:37,03-01-2023 20:31,6,Tier 1,Resolved
+10,Bernard Beckley,Product setup,Low,Czech Republic,Training and Consulting Services,1st line support,03-01-2023 09:27,04-01-2023 10:16,1,Tier 1,Closed
+11,Bernard Beckley,Other,Medium,Czech Republic,Custom software development,1st line support,03-01-2023 16:41,03-01-2023 23:52,60,Tier 1,Closed
+12,Sheela Cutten,Bug report,Low,Poland,Custom software development,1st line support,03-01-2023 04:50,07-01-2023 13:17,3,Tier 1,Closed
+13,Nicola Wane,Bug report,Low,Bulgaria,Ready to use Software,1st line support,04-01-2023 10:49,04-01-2023 23:37,2,Tier 1,Closed
+14,Bernard Beckley,Training request,Low,United Kingdom,Training and Consulting Services,1st line support,04-01-2023 07:27,05-01-2023 04:41,3,Tier 1,Resolved
+15,Kristos Westoll,Bug report,Low,Bulgaria,Ready to use Software,1st line support,04-01-2023 21:46,05-01-2023 13:28,2,Tier 1,Resolved
+16,Bernard Beckley,Feature request,Medium,Germany,Custom software development,1st line support,04-01-2023 09:12,05-01-2023 07:45,60,Tier 1,Closed
+17,Connor Danielovitch,Feature request,Medium,Germany,Ready to use Software,1st line support,04-01-2023 19:36,05-01-2023 02:24,5,Tier 1,Closed
+18,Kristos Westoll,Feature request,Low,United Kingdom,Ready to use Software,1st line support,04-01-2023 18:08,30-01-2023 12:24,4,Tier 1,In progress
+19,Heather Urry,Product setup,Low,Germany,Other,2nd line support,04-01-2023 12:47,05-01-2023 07:54,2,Tier 2,Resolved
+20,Connor Danielovitch,Other,Low,Germany,Training and Consulting Services,1st line support,04-01-2023 19:06,30-01-2023 12:24,9,Tier 1,In progress
+21,Connor Danielovitch,Training request,High,Germany,Training and Consulting Services,1st line support,04-01-2023 05:27,30-01-2023 12:24,7,Tier 1,In progress
+22,Sheela Cutten,Product setup,Low,Poland,Custom software development,1st line support,05-01-2023 12:10,07-01-2023 11:23,1,Tier 1,Resolved
+23,Bernard Beckley,Other,High,Italy,Other,1st line support,05-01-2023 04:18,05-01-2023 19:22,3,Tier 1,Closed
+24,Adolpho Messingham,Purchasing and invoicing,Medium,Poland,Custom software development,2nd line support,05-01-2023 05:16,05-01-2023 07:37,3,Tier 2,Resolved
+25,Heather Urry,Bug report,High,Poland,Ready to use Software,2nd line support,05-01-2023 14:30,30-01-2023 12:24,6,Tier 2,In progress
+26,Bernard Beckley,Product setup,Low,Germany,Ready to use Software,1st line support,05-01-2023 02:59,05-01-2023 21:50,8,Tier 1,Closed
+27,Connor Danielovitch,Pricing and licensing,High,Italy,Custom software development,1st line support,05-01-2023 03:31,06-01-2023 17:14,3,Tier 1,Closed
+28,Kristos Westoll,Product setup,Low,Italy,Custom software development,1st line support,06-01-2023 20:45,07-01-2023 00:07,3,Tier 1,Closed
+29,Kristos Westoll,Bug report,Medium,Slovenia,Ready to use Software,1st line support,06-01-2023 20:14,08-01-2023 07:15,4,Tier 1,Resolved
+30,Sheela Cutten,Bug report,High,Poland,Custom software development,1st line support,06-01-2023 15:11,07-01-2023 06:22,1,Tier 1,Resolved
+31,Bernard Beckley,Pricing and licensing,Low,Greece,Training and Consulting Services,1st line support,06-01-2023 03:15,30-01-2023 12:24,1,Tier 1,In progress
+32,Bernard Beckley,Pricing and licensing,Low,Greece,Ready to use Software,1st line support,06-01-2023 23:55,30-01-2023 12:24,8,Tier 1,In progress
+33,Sheela Cutten,Pricing and licensing,Medium,Poland,Custom software development,1st line support,06-01-2023 12:05,11-01-2023 05:34,3,Tier 1,Closed
+34,Nicola Wane,Product setup,Low,Spain,Training and Consulting Services,1st line support,07-01-2023 01:13,12-01-2023 02:26,6,Tier 1,Closed
+35,Michele Whyatt,Purchasing and invoicing,High,Italy,Custom software development,2nd line support,07-01-2023 05:28,08-01-2023 08:30,2,Tier 2,Closed
+36,Connor Danielovitch,Bug report,High,Republic of Ireland,Ready to use Software,1st line support,07-01-2023 18:09,09-01-2023 13:07,8,Tier 1,Closed
+37,Kristos Westoll,Bug report,Low,Germany,Custom software development,1st line support,07-01-2023 00:13,08-01-2023 13:56,8,Tier 1,Resolved
+38,Bernard Beckley,Feature request,Medium,Germany,Ready to use Software,1st line support,07-01-2023 09:55,09-01-2023 01:35,7,Tier 1,Closed
+39,Bernard Beckley,Pricing and licensing,Medium,France,Ready to use Software,1st line support,08-01-2023 13:39,30-01-2023 12:24,10,Tier 1,In progress
+40,Nicola Wane,Pricing and licensing,Low,Republic of Ireland,Custom software development,1st line support,08-01-2023 19:35,30-01-2023 12:24,60,Tier 1,In progress
+41,Kristos Westoll,Feature request,Low,United Kingdom,Ready to use Software,1st line support,08-01-2023 04:56,08-01-2023 08:51,2,Tier 1,Closed
+42,Connor Danielovitch,Other,High,United Kingdom,Ready to use Software,1st line support,08-01-2023 10:58,08-01-2023 17:42,5,Tier 1,Closed
+43,Sheela Cutten,Product setup,Medium,United Kingdom,Ready to use Software,1st line support,08-01-2023 01:00,08-01-2023 04:07,3,Tier 1,Closed
+44,Sheela Cutten,Product setup,Medium,Spain,Ready to use Software,1st line support,09-01-2023 14:16,10-01-2023 06:21,6,Tier 1,Resolved
+45,Sheela Cutten,Product setup,Low,Germany,Custom software development,1st line support,09-01-2023 15:09,11-01-2023 01:02,3,Tier 1,Resolved
+46,Kristos Westoll,Product setup,Low,Greece,Ready to use Software,1st line support,09-01-2023 14:10,10-01-2023 19:32,3,Tier 1,Closed
+47,Heather Urry,Pricing and licensing,Medium,Poland,Custom software development,2nd line support,09-01-2023 17:25,10-01-2023 12:39,2,Tier 2,Closed
+48,Adolpho Messingham,Pricing and licensing,High,Germany,Custom software development,2nd line support,09-01-2023 18:55,15-01-2023 17:10,1,Tier 2,Resolved
+49,Michele Whyatt,Training request,Medium,Republic of Ireland,Training and Consulting Services,2nd line support,09-01-2023 11:56,10-01-2023 16:04,1,Tier 2,Closed
+50,Sheela Cutten,Feature request,High,Germany,Custom software development,1st line support,09-01-2023 20:14,09-01-2023 20:44,1,Tier 1,Closed
+51,Kristos Westoll,Pricing and licensing,Medium,Greece,Ready to use Software,1st line support,09-01-2023 09:10,09-01-2023 21:58,7,Tier 1,Closed
+52,Nicola Wane,Pricing and licensing,Low,Slovenia,Ready to use Software,1st line support,09-01-2023 06:50,09-01-2023 22:42,3,Tier 1,Closed
+53,Kristos Westoll,Product setup,High,Czech Republic,Ready to use Software,1st line support,09-01-2023 21:50,11-01-2023 09:54,5,Tier 1,Closed
+54,Bernard Beckley,Product setup,Low,Germany,Ready to use Software,1st line support,09-01-2023 02:55,10-01-2023 22:20,3,Tier 1,Closed
+55,Sheela Cutten,Pricing and licensing,Low,Bulgaria,Ready to use Software,1st line support,10-01-2023 02:10,11-01-2023 21:39,2,Tier 1,Resolved
+56,Sheela Cutten,Pricing and licensing,Low,Germany,Ready to use Software,1st line support,10-01-2023 13:46,12-01-2023 06:52,7,Tier 1,Closed
+57,Kristos Westoll,Product setup,Low,Germany,Other,1st line support,10-01-2023 09:42,12-01-2023 01:12,2,Tier 1,Resolved
+58,Kristos Westoll,Product setup,Low,Spain,Training and Consulting Services,1st line support,10-01-2023 03:17,10-01-2023 13:22,3,Tier 1,Closed
+59,Bernard Beckley,Product setup,Medium,Austria,Custom software development,1st line support,10-01-2023 04:29,30-01-2023 12:24,3,Tier 1,In progress
+60,Connor Danielovitch,Product setup,Low,Poland,Custom software development,1st line support,10-01-2023 20:59,12-01-2023 17:31,5,Tier 1,Closed
+61,Sheela Cutten,Pricing and licensing,Low,Poland,Ready to use Software,1st line support,10-01-2023 23:30,12-01-2023 00:58,1,Tier 1,Resolved
+62,Connor Danielovitch,Other,Medium,United Kingdom,Other,1st line support,10-01-2023 10:14,11-01-2023 20:40,7,Tier 1,Resolved
+63,Bernard Beckley,Product setup,High,Germany,Ready to use Software,1st line support,10-01-2023 07:30,10-01-2023 10:50,4,Tier 1,Closed
+64,Nicola Wane,Purchasing and invoicing,Medium,Germany,Ready to use Software,1st line support,10-01-2023 17:16,12-01-2023 07:22,10,Tier 1,Resolved
+65,Adolpho Messingham,Feature request,Low,Italy,Ready to use Software,2nd line support,11-01-2023 19:17,11-01-2023 20:05,8,Tier 2,Closed
+66,Nicola Wane,Purchasing and invoicing,Low,Spain,Training and Consulting Services,1st line support,11-01-2023 11:24,11-01-2023 20:49,8,Tier 1,Closed
+67,Bernard Beckley,Feature request,Low,Italy,Ready to use Software,1st line support,11-01-2023 00:49,11-01-2023 14:39,4,Tier 1,Resolved
+68,Bernard Beckley,Pricing and licensing,Medium,Germany,Custom software development,1st line support,11-01-2023 12:31,12-01-2023 12:24,3,Tier 1,Resolved
+69,Sheela Cutten,Product setup,Low,United Kingdom,Custom software development,1st line support,11-01-2023 13:45,12-01-2023 00:00,8,Tier 1,Resolved
+70,Connor Danielovitch,Purchasing and invoicing,Low,Czech Republic,Ready to use Software,1st line support,11-01-2023 04:04,11-01-2023 19:03,6,Tier 1,Resolved
+71,Kristos Westoll,Feature request,Low,Czech Republic,Custom software development,1st line support,11-01-2023 13:40,16-01-2023 11:43,3,Tier 1,Closed
+72,Bernard Beckley,Product setup,Low,Austria,Ready to use Software,1st line support,11-01-2023 05:29,11-01-2023 17:24,1,Tier 1,Closed
+73,Bernard Beckley,Other,Medium,Poland,Ready to use Software,1st line support,12-01-2023 12:18,30-01-2023 12:24,6,Tier 1,In progress
+74,Heather Urry,Feature request,Medium,Italy,Custom software development,2nd line support,12-01-2023 22:40,13-01-2023 13:58,7,Tier 2,Resolved
+75,Sheela Cutten,Bug report,High,Austria,Ready to use Software,1st line support,13-01-2023 15:00,14-01-2023 02:58,60,Tier 1,Resolved
+76,Michele Whyatt,Other,Low,Germany,Ready to use Software,2nd line support,13-01-2023 15:16,13-01-2023 21:16,5,Tier 2,Resolved
+77,Sheela Cutten,Pricing and licensing,Medium,Bulgaria,Ready to use Software,1st line support,13-01-2023 12:58,13-01-2023 13:19,9,Tier 1,Resolved
+78,Connor Danielovitch,Feature request,Low,Italy,Other,1st line support,13-01-2023 13:30,15-01-2023 09:50,3,Tier 1,Closed
+79,Kristos Westoll,Feature request,Low,Italy,Other,1st line support,13-01-2023 06:47,13-01-2023 09:11,7,Tier 1,Closed
+80,Connor Danielovitch,Other,Low,Germany,Custom software development,1st line support,13-01-2023 23:18,30-01-2023 12:24,3,Tier 1,In progress
+81,Michele Whyatt,Bug report,Low,Republic of Ireland,Ready to use Software,2nd line support,13-01-2023 11:19,15-01-2023 08:05,1,Tier 2,Closed
+82,Bernard Beckley,Purchasing and invoicing,Low,Czech Republic,Ready to use Software,1st line support,13-01-2023 02:10,14-01-2023 05:07,4,Tier 1,Closed
+83,Nicola Wane,Product setup,High,France,Training and Consulting Services,1st line support,13-01-2023 13:38,13-01-2023 15:29,3,Tier 1,Closed
+84,Adolpho Messingham,Product setup,High,United Kingdom,Ready to use Software,2nd line support,13-01-2023 21:32,15-01-2023 14:06,8,Tier 2,Closed
+85,Sheela Cutten,Product setup,Low,Spain,Ready to use Software,1st line support,13-01-2023 02:49,30-01-2023 12:24,9,Tier 1,In progress
+86,Bernard Beckley,Pricing and licensing,Low,Republic of Ireland,Ready to use Software,1st line support,13-01-2023 02:22,30-01-2023 12:24,2,Tier 1,In progress
+87,Bernard Beckley,Product setup,Low,Germany,Custom software development,1st line support,13-01-2023 01:46,17-01-2023 07:29,6,Tier 1,Resolved
+88,Connor Danielovitch,Product setup,Medium,Poland,Other,1st line support,13-01-2023 07:20,15-01-2023 06:43,10,Tier 1,Closed
+89,Sheela Cutten,Pricing and licensing,Low,Germany,Ready to use Software,1st line support,13-01-2023 23:22,14-01-2023 05:14,3,Tier 1,Resolved
+90,Nicola Wane,Pricing and licensing,Medium,United Kingdom,Training and Consulting Services,1st line support,14-01-2023 22:53,16-01-2023 03:46,7,Tier 1,Resolved
+91,Kristos Westoll,Pricing and licensing,Medium,United Kingdom,Custom software development,1st line support,15-01-2023 13:10,19-01-2023 09:22,3,Tier 1,Closed
+92,Bernard Beckley,Product setup,High,Czech Republic,Other,1st line support,15-01-2023 06:08,15-01-2023 07:23,2,Tier 1,Resolved
+93,Bernard Beckley,Other,Low,Germany,Ready to use Software,1st line support,15-01-2023 10:11,17-01-2023 07:11,4,Tier 1,Closed
+94,Kristos Westoll,Pricing and licensing,High,Slovenia,Custom software development,1st line support,15-01-2023 02:01,16-01-2023 14:49,2,Tier 1,Closed
+95,Connor Danielovitch,Product setup,Medium,Spain,Ready to use Software,1st line support,16-01-2023 05:12,30-01-2023 12:24,6,Tier 1,In progress
+96,Sheela Cutten,Product setup,Low,Czech Republic,Ready to use Software,1st line support,16-01-2023 20:38,16-01-2023 22:40,1,Tier 1,Closed
+97,Sheela Cutten,Pricing and licensing,Low,Austria,Training and Consulting Services,1st line support,16-01-2023 15:44,17-01-2023 12:05,9,Tier 1,Closed
+98,Bernard Beckley,Product setup,High,Bulgaria,Ready to use Software,1st line support,16-01-2023 19:19,17-01-2023 12:08,3,Tier 1,Resolved
+99,Sheela Cutten,Product setup,Low,Spain,Custom software development,1st line support,16-01-2023 12:50,16-01-2023 17:37,60,Tier 1,Closed
+100,Adolpho Messingham,Bug report,Low,Poland,Training and Consulting Services,2nd line support,16-01-2023 14:37,16-01-2023 19:04,1,Tier 2,Resolved
