@@ -1,0 +1,52 @@
+* In Second week i shown my cleaned dataset.
+* Vs Code Setup and how files and folders are created.
+
+* How to use ipynb file and what is dataframe, uses of pandas library
+   - Dataframe : is a table with rows and columns that helps us store, clean, and analyze data easily in python.
+   - Pandas : is used to load datasets into vscode (excel , csv files) and helps to handles tables.
+
+* Commands used to Clean the Data :
+     # Importing libraries
+   - import pandas as pd
+     # Loading dataset
+   - df = df.read_csv(r"Customer_call_list.csv")
+   - df
+     # Drop duplicates
+   - df.drop_duplicates()
+     # Removing white spaces
+   - df["last_name"] = df["last_name"].str.strip()
+     # Removing Special characters
+   - df["last_name"] = df["last_name"].str.strip("/._")
+     # Replace Values
+   - df["Paying Customer"] = df["Paying Customer"].str.replace("Yes","Y")
+   - df["Paying Customer"] = df["Paying Customer"].str.replace("No","N")
+   - df["Do_Not_Contact"] = df["Do_Not_Contact"].str.replace("Yes","Y")
+   - df["Do_Not_Contact"] = df["Do_Not_Contact"].str.replace("No","N")
+   - df
+     # removing unnecessary rows
+   - df=df[df["Do_Not_Contact"] !="Y"]
+   - df
+     # droping unnecessary columns
+   - df = df.drop(columns=["Not_Useful_Column"])
+   - df = df.drop(columns = ["Unnamed: 8"])
+   - df = df.drop(columns = ["Unnamed: 9"])
+   - df
+     # fill null with empty values
+   - df=df.fillna("")
+   - df
+     # remove empty values rows of phone number
+   - df= df[df["Phone_Number"] !=""]
+   - df
+     # remove empty values rows of last name
+   - df= df[df["Last_Name"] !=""]
+   - df
+     # reset index
+   - df= df.reset_index()
+   - df
+     # drop index column
+   - df= df.drop(columns = ["index"])
+   - df
+     # rename column
+   - df = df.rename(columns={"Paying Customer":"Paying_Customer"})
+   - df
+# Task : to work with customer call list dataset.
