@@ -1,0 +1,59 @@
+# Week- 6
+* What is DAX?
+  - DAX stands for data analysis expressions and it is used to create Measures, Calculated Columns and Tables.
+
+
+* Fact table mean : it contains measurable data
+  - In powerbi summation stands for measurable column.
+* From sales dataset we learned DAX formula's:
+  - Total Profit = Sum(FactSales[Profit])
+
+
+* Implicit functions
+  - automatically created by Power Bi using built-in aggreations like Sum, Count, and Average.
+  - implict function don't have control over data
+* Explict functions 
+  - created by using DAX formulas, 
+  - this functions give full access to control over data and
+    modification of values.
+
+
+* Differnce between Revenue and Profit 
+  - Revenue: All the money company earns by selling.
+  - Profit: Money left after paying all expenses.
+
+
+* Base Measure
+  - It is a measure created using column from table
+* Composite measure
+  - it is a column created by combining the two measures columns.
+
+
+* Slicer
+  - slicer is a visual filtering tool
+  - it allows to filter data
+
+
+* filter 
+  - is a Dax function that returns a table with rows if given condition is satisfied. 
+  - filter is used inside CALCULATE() to apply row level conditions for result
+
+
+* Formulas:  
+  - Total profits from manager = 
+                         CALCULATE(
+                         [Total Profit],
+                         DimEmployee[Role] = 'manager'
+                         DimDate[year] = 2018
+                         )
+
+ - If Condition Formula:
+            Target = if(
+                     [Total Revenue] > 2000000,
+                     "Target Reached",
+                     "failed"
+                      )
+
+* Additional we learned commonly used DAX functions, including
+ - if-else 
+ - nested if
