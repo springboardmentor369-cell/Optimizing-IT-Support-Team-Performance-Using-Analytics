@@ -86,9 +86,11 @@ ThallapuReddy Gopi Reddy
    Python etc
 
 # Internship / Experience :
-   I have learned From this Internsip adout what Kind of work can be done by a Data Analytics.
+   During this Internship, I have learned From this Internsip adout what Kind of work can be done by a Data Analytics.
    
    How data can be Analized in Different ways.
+
+   The Intersection of IT operations and data intelligences-transforming raw service desk data into strategic decision power.
 
 # Role & Responsibility
    Collected and cleaned IT ticket data from service platforms.
