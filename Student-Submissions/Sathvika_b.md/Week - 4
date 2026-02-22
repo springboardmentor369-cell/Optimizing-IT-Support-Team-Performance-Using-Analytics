@@ -1,0 +1,24 @@
+# week-4 
+* Importing live data
+  - Through get data - web - pasting url of dataset(basic) -> then connect
+
+*  After importing live data and getting updtes daily causing flooding to avoid this we use big Servers , Google has big server.
+  - W3 School dataset is public and connected with power bi.
+  - NSEStocks dataset site is procted and doesnot allow tools(restrict tools like power bi, excel, bot and scrapper).
+  - But to access we need to have either API key or Organisation account.
+
+* API End Point : is a place(URL) where a computer goes to get data
+  - Example for API End Point :
+  - Website for humans
+  - API endpoint for computer.
+
+- Zendesk is customer support tool 
+    Companies use it to: 
+  - Collect customer problems(ticket)
+  - Assign ticket to support agents
+  - Track status(pending,sloved)
+  - Measure performance(response time)
+  - Example: If Order is late -> a ticket is Created in zendesk.
+
+* creating the Github repository.
+# Task : creatng repository
