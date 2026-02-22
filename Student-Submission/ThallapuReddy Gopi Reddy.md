@@ -16,7 +16,7 @@ ThallapuReddy Gopi Reddy
 
   Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
 
-   Live Dashboard :
+   Live Dashboard :https://drive.google.com/file/d/1Gd4WF-2WUcyN1aqOj1vIrX3vw-k1DrJc/view?usp=sharing
    
  # Project Detailed description:
  
